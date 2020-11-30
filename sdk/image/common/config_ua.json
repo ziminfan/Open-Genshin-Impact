@@ -1,0 +1,11 @@
+{
+  "refuseBottomColor": "0xffF4D8A8",
+  "acceptBottomColor": "0xffF4D8A8",
+  "voiceBgColor": "0x26ffc000",
+  "voiceTextColor": "0xffC4A866",
+  "titleHideColor": "0xffffffff",
+  "titleShowColor": "0xffF4D8A8",
+  "linkTextColor": "0xffF4D8A8",
+  "confirmExitColor": "0xffF4D8A8",
+  "confirmRereadColor": "0xffF4D8A8"
+}

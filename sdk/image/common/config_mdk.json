@@ -1,0 +1,71 @@
+[
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.login.view.AccountLoginLayout",
+    "registerColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.login.view.PhoneLoginLayout",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.login.view.SelectLayout",
+    "otherLoginColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.common.adapter.SelectAdapter",
+    "otherLoginColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.bind.view.BindPhoneLayout",
+    "emailBindColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.realname.view.RealNameTipsLayout",
+    "cancelColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.other.view.AccountVerifyLayout",
+    "bottomColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.register.view.RegisterLayout",
+    "bottomColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.bind.view.BindEmailLayout",
+    "bottomColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.register.view.EmailSendLayout",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.other.view.LoginSuccessTipsLayout",
+    "tipsBgColor": "0xffffffff"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.pay.view.PayLoadingBtn",
+    "bottomColor": "0xfff4d8a8"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.pay.view.NoPayWayLayout",
+    "noticeColor": "0xff333333"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.bind.view.BindTaptapLayout",
+    "registerColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.miHoYo.sdk.platform.module.bind.view.TaptapBindAccountLayout",
+    "forgetPwdColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "all",
+    "mainStyleBtnColor": "0xfff4d8a8",
+    "cursorColor": "0xfff4d8a8",
+    "titleTextColor": "0xff333333"
+  }
+]

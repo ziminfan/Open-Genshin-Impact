@@ -1,0 +1,60 @@
+[
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.login.view.AccountLoginLayout",
+    "bottomBtnColor": "0xffDCBC60",
+    "registerColor": "0xffDCBC60"
+
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.login.view.MultipleLoginLayout",
+    "bottomBtnColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.login.view.PhoneLoginLayout",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.login.view.SelectLayout",
+    "otherLoginColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.common.adapter.SelectAdapter",
+    "otherLoginColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.bind.view.GuestBindPhoneLayout",
+    "emailBindColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.common.view.TwoBottomBtnLayout",
+    "cancelColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.other.view.AccountVerifyLayout",
+    "bottomColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.register.view.RegisterLayout",
+    "bottomColor": "0xffDCBC60",
+    "codeShowColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.bind.view.BindEmailLayout",
+    "bottomColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "all",
+    "mainStyleBtnColor": "0xfff4d8a8",
+    "cursorColor": "0xfff4d8a8"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.bind.view.BindSelectLayout",
+    "bottomColor": "0xffDCBC60"
+  },
+  {
+    "classPath": "com.mihoyoos.sdk.platform.module.bind.view.BindAccountLayout",
+    "forgetPwdColor": "0xffDCBC60"
+  }
+]
